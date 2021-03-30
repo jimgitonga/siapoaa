@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557921514825",
+    "project_id": "siapoahealth",
+    "storage_bucket": "siapoahealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557921514825:android:56e3532ac44a5947e71698",
+        "android_client_info": {
+          "package_name": "com.siapoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557921514825-4an2ole6434l1egpi8i8a1ugfmkoa294.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siapoa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "557921514825-sniqrk29koj2b201s1icsakle3d03os4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9d6Shrl5SUeCaOZ1nq3ny487H_jMyzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557921514825-sniqrk29koj2b201s1icsakle3d03os4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
